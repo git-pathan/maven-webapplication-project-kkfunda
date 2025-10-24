@@ -29,7 +29,7 @@ pipeline{
         sh """
             curl -u pathan:password \\
             --upload-file target/maven-web-application.war \\
-            "http://18.209.16.75:8080/manager/text/deploy?path=/maven-web-application&update=true"
+            "http://3.91.189.67:8080/manager/text/deploy?path=/maven-web-application&update=true"
         """
     }
 }
