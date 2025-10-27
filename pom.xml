@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://54.91.14.250:8081/repository/pathan-relese/</url>
+	      <url>http://54.91.14.250:8081/repository/pathan-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
